@@ -4,7 +4,7 @@ My name is Lacey, and my pronouns are she/her. I live in Oregon with my husband,
 
 I'm a web developer and Django consultant with [REVSYS](https://www.revsys.com/). I'm also a skilled technical writer, coding teacher, workshop mentor, and conference speaker who is passionate about helping complex topics go from "intimidating" to "totally doable" for people of all experience levels. 
 
-From 2015-2020, I was an organizer for [DjangoCon US](djangocon.us). I was conference chair or co-chair for two of those years. I was nominated for the Django Software Foundation's [Malcolm Tredinick Memorial Prize](https://www.djangoproject.com/weblog/2018/jan/22/2017-malcolm-tredinnick-prize-claude-paroz/) in 2017 for my contributions to the Django community. 
+From 2015-2020, I was an organizer for [DjangoCon US](https://djangocon.us/). I was conference chair or co-chair for two of those years. I was nominated for the Django Software Foundation's [Malcolm Tredinick Memorial Prize](https://www.djangoproject.com/weblog/2018/jan/22/2017-malcolm-tredinnick-prize-claude-paroz/) in 2017 for my contributions to the Django community. 
 
 ## 2021 so far 
 
