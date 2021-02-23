@@ -8,7 +8,10 @@ From 2015-2020, I was an organizer for [DjangoCon US](https://djangocon.us/). I 
 
 ## 2021 so far 
 
+- Started blog series on "What You Should Know About Django REST Framework." Read [Part 1](https://www.laceyhenschel.com/blog/2021/2/22/what-you-should-know-about-drf-part-1-modelviewset-attributes-and-methods)! 
+- Presented "What You Should Know About Django REST Framework" at PyCascades 2021. See the [slides](https://2021.pycascades.com/program/talks/what-you-should-know-about-django-rest-framework/) and watch the [video](http://youtu.be/06DJBu1zwoY)! 
 - Previewed "What You Should Know About Django REST Framework" for PyLadies Vancouver 
+- Started writing [weeknotes](https://www.laceyhenschel.com/blog/tag/weeknotes).
 - Accepted to present "What You Should Know About Django REST Framework" at [PyCascades](https://2021.pycascades.com/program/talks/what-you-should-know-about-django-rest-framework/)
 
 ## GitHub Stats
